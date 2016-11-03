@@ -1,8 +1,0 @@
-hello test
-
-creating a new branch is quick and(feature1) simple.
-
-creating a new branch is quick and simple.
-
-this is master
-
