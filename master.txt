@@ -1,3 +1,0 @@
-I am master.
-add a issue101
-update master
